@@ -1,0 +1,234 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+
+
+
+#A{
+    
+
+
+}
+
+
+#a{
+    display: flex;
+}
+
+
+
+
+#a1{ display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#ig{
+    padding-left: 24px;
+    padding-right: 800px;
+}
+
+#tok{
+    width: 100%;
+}
+#idl{
+    
+    display: flex;
+
+    height: 63px;
+    float:right;
+    width: 700px;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 24px;
+    /*padding-left: 45px;*/
+    align-items: center;
+
+
+}
+#mom{
+    color: orange;
+}
+
+#b{
+    display: flex;
+    width: 100%;
+}
+
+
+#mf{display: flex;
+    
+    background: url("Rectangle 48BG Slide (1).png") no-repeat center/cover;
+
+    height:600px;
+    width:100%;
+    color: white;
+    text-align: center;
+    margin-left: 0px;
+    /*padding-right: 379px;*/
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    
+}
+label{
+    display: flex;
+    float: right;
+}
+
+#orda{ 
+    position: relative;
+    font-size: 40px;
+    /*padding-left: 623px;*/
+    margin-top: 57px;
+    font-size: 20px;
+
+}
+#bk{
+    display: flex;
+    flex-direction: row;
+    margin-top: 98px;
+
+    height: 97px;
+    /* width: 576in; */
+    justify-content: space-between;
+    padding-right: 249px;
+    margin-right: 12px;
+    margin-bottom: 23px;
+    padding-left: 23px;
+    position: relative;
+
+
+}
+#bk1{
+    border: black 2px solid;
+    padding-left: 29px;
+    padding-right: 29px;
+    height: 37px;
+    width: 77px;
+    border-radius:56px;
+    margin-bottom: 23px;
+    justify-content: center;
+    padding-top: 23px;
+    background-color:orangered;
+
+}
+#bk2{
+    border:white 2px solid;
+    padding-left: 29px;
+    padding-right: 29px;
+    height: 37px;
+    border-radius: 56px;
+    margin-bottom: 23px;
+    justify-content: center;
+    padding-top: 23px;
+
+}
+#c{ display: flex;
+
+    /* position: relative; */
+    /* bottom: 320px; */
+    justify-content: center;
+    /*padding-left: 280px;*/
+    margin-top: -278px
+}
+#c1{
+    border:black 1px solid;
+    height: 2px;
+    width: 790px;
+    
+}
+h1{
+
+    text-align: center;
+    font-size: 45px;
+}
+#c2{display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    flex-direction: row;
+}
+.reverse{ 
+    display: flex;
+    flex-direction: row-reverse !important;
+
+}
+#t1{
+    color:orangered;
+    font-size: 23x;
+}
+
+#t3{
+    font-size: 18px;
+    opacity: 0.4;
+}
+
+#f{ display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+#ff{
+
+    margin-left: 234px;
+}
+#tak{  margin-left: 234px;
+    
+
+}
+
+@media screen and (max-width: 425px)
+{
+
+#ig{
+    padding-right: 0px;
+}
+
+#idl{
+    display: none;
+}
+
+#c img {
+    width: 98%;
+}
+#c{
+    margin-top: -190px;
+
+
+}
+#c2{
+    flex-direction: column-reverse;
+}
+
+.reverse{
+    flex-direction: column-reverse!important;
+}
+
+#mf{
+    background: white;
+}
+#orda{
+    color: black;
+
+
+}
+label{
+
+    position: absolute;
+    right: 1px;
+
+}
+#check:checked~#idl{ 
+    display: flex;
+    
+}
+
+
+
+
+}
+    

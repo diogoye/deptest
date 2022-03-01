@@ -1,0 +1,66 @@
+
+.container{
+    background-color: lightblue;
+    padding: 60px;
+    border: 2px solid black;
+    display: flex;
+    width: 70%;
+    height: 600px;
+    justify-content: space-around;
+}
+
+aside{
+    flex: 2;
+    
+}
+main .main{
+    border: black 1px solid;
+    height: 500px;
+    width: 248px;
+    position: relative;
+    top: 14px;
+    right: 12px;
+}
+
+section{
+    flex: 5;
+    justify-content: space-between;
+    /* border: black 2px solid; */
+
+}
+
+section .m2{
+    border: 2px solid black;
+    height: 500px;
+    padding: 4px;
+
+}
+ .header{
+
+    border: 2px black solid;
+    height: 95px;
+
+ }
+ .mere{
+     display: flex;
+     position: static;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items:stretch;
+    margin: 4px;
+    padding: 4px;
+    position: sticky;
+    top: 20px;
+
+
+
+ }
+
+ article.m1{
+   border: 1px solid black;
+   width: 250px;
+   height: 239px;
+
+
+
+ }

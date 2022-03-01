@@ -1,0 +1,23 @@
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.black{background-color: black;
+    width: 12px;
+    height: 65px;
+
+}
+.red{background-color: red;
+    width: 12px;
+    height: 65px;
+
+}
+.green{background-color: green;
+    width: 12px;
+    height: 65px;
+
+
+}

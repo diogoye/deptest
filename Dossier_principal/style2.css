@@ -1,0 +1,49 @@
+.body{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 21px;
+    height: 80vh;
+}
+
+.aside{
+    width: 23%;
+
+}
+aside{
+border: 2px solid black;
+height: 70vh;
+
+}
+.section{ 
+    width: 76%;
+
+
+
+}
+section{
+    border: 2px solid black;
+    height: 63vh;
+padding: 31px;
+}
+header{
+    height: 50px;
+    border: 2px solid black;
+}
+.ARTICLES{
+
+    display:flex;
+    justify-content: space-between;
+
+
+}
+.ARTICLE{
+width: 30%;
+
+}
+article{
+border: 2px solid black;
+height: 40vh;
+
+
+}
